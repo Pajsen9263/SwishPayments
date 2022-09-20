@@ -1,0 +1,24 @@
+{
+  "name": "swishpayments",
+  "version": "1.0.0",
+  "description": "A Javascript wrapper for the Swedish Swish Payment API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pajsen9263/SwishPayments.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pajsen9263/SwishPayments/issues"
+  },
+  "homepage": "https://github.com/Pajsen9263/SwishPayments#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "fs": "^0.0.1-security",
+    "https": "^1.0.0"
+  }
+}
